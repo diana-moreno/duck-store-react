@@ -1,0 +1,11 @@
+{
+  "name": "duck-store-react",
+  "version": "1.0.0",
+  "description": "![duck app login](./images/ducks-app-react.png) ![duck app search](./images/ducks-app-react2.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
