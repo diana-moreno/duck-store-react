@@ -24,6 +24,7 @@ The user can also register, and login to acces to his account and select favouri
 - Make calls to an external API and show the results when a search is done.
 - Create a Feedback component when an error is happened.
 - Create a Favorites section.
+- Separate the logic in files.
 
 ## Technical Description
 
