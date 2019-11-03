@@ -35,7 +35,7 @@ The user can also register, and login to acces to his account and select favouri
 
 ## Usage
 
-The project can be opened here https://diana-moreno.github.io/duck-app-react/.
+The project can be opened here https://diana-moreno.github.io/duck-store-react/.
 
 Otherside, to run it in local, I have included Serve, a local server from an NPM library.
 
