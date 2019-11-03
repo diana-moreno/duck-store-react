@@ -4,8 +4,12 @@
   "description": "![duck app login](./images/ducks-app-react.png) ![duck app search](./images/ducks-app-react2.png)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
 }
